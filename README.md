@@ -1,5 +1,8 @@
-# Privacy-policy
-Privacy Policy for various on data collection apps for ChatGTP
+# Privacy Policy
+
+Privacy Policy for various data collection apps for ChatGTP
+
+> **Note:** ChatGPT provided by OpenAI may gather data under its own policy. For more details, please see the [OpenAI Privacy Policy](https://openai.com/policies/row-privacy-policy/).
 
 # Custom ChatGPT Bot
 
@@ -20,4 +23,6 @@ This repository contains a custom implementation of a ChatGPT-based chatbot desi
 - **Privacy-Focused:** No personal data collection is performed.
 - **As-Is Distribution:** Provided without warranties, allowing you full control over its implementation.
 
-##
+## License
+
+This project is licensed under the Creative Commons License.
