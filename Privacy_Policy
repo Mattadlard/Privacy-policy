@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Custom ChatGPT Bot Privacy Policy</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Custom ChatGPT Bot & Privacy Policy</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       margin: 2em;
       line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
     }
     h1, h2 {
       color: #333;
@@ -16,16 +18,34 @@
     ul {
       margin-left: 2em;
     }
+    a {
+      color: #1a0dab;
+    }
+    .note {
+      background: #fff3cd;
+      border-left: 6px solid #ffeeba;
+      padding: 1em;
+      margin: 1em 0;
+    }
   </style>
 </head>
 <body>
+  <h1>Privacy Policy</h1>
   <p>
-    Below is an example of a README.md file that you can host on GitHub for your custom ChatGPT-based bot project. You can adjust the sections (Installation, Usage, etc.) as needed:
+    Privacy Policy for various data collection apps for ChatGTP.
   </p>
+  <div class="note">
+    <p>
+      <strong>Note:</strong> ChatGPT provided by OpenAI may gather data under its own policy.
+      For more information, please refer to the
+      <a href="https://openai.com/policies/row-privacy-policy/" target="_blank">OpenAI Privacy Policy</a>.
+    </p>
+  </div>
 
   <h1>Custom ChatGPT Bot</h1>
   <p>
-    This repository contains a custom implementation of a ChatGPT-based chatbot designed for users to integrate into their own projects. The software is provided solely for your use and is offered as-is without any warranties.
+    This repository contains a custom implementation of a ChatGPT-based chatbot designed for users to integrate into their own projects.
+    The software is provided solely for your use and is offered as-is without any warranties.
   </p>
 
   <h2>Disclaimer</h2>
@@ -51,10 +71,5 @@
     <li><strong>Privacy-Focused:</strong> No personal data collection is performed.</li>
     <li><strong>As-Is Distribution:</strong> Provided without warranties, allowing you full control over its implementation.</li>
   </ul>
-
-  <h2>License</h2>
-  <p>
-    This project is licensed under the <strong>Creative Commons License</strong>.
-  </p>
 </body>
 </html>
